@@ -1,0 +1,57 @@
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.DoiKieuChu.resources
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3_combobox.resources
+C:\Users\quoca\Desktop\lap trinh\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.tinhToan.resources
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.DoiKieuChu.resources
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form3_combobox.resources
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.tinhToan.resources
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\quoca\Desktop\Lap trinh nang cao\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.DoiKieuChu.resources
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.Form3_combobox.resources
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.tinhToan.resources
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Windowforms1-main\Windowforms1-main\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
